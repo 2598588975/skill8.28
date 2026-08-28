@@ -1,0 +1,6 @@
+interface:
+  display_name: "CINEDANCE 视频导演"
+  short_description: "把场景与剧本转换为具备调度、运镜和连戏锁定的中文视频提示词"
+  default_prompt: "使用 $cinedance-video-director 把这个场景转换成制片级中文视频提示词。"
+policy:
+  allow_implicit_invocation: true

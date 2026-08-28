@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zz超级导演大师"
+  short_description: "默认生成基础三行分镜，复杂项目按需启用增强控制"
+  default_prompt: "Use $zz-director-master to create an executable director storyboard. Default to the compact base format and enable only the enhanced modules required by actual continuity risk."

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lira 图像提示词"
+  short_description: "把角色、场景、道具和编辑需求优化为生产级纯中文图像提示词"
+  default_prompt: "使用 $lira-image-prompts 将我的图像需求优化成生产级中文提示词。"
+policy:
+  allow_implicit_invocation: true

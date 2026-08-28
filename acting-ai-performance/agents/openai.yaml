@@ -1,0 +1,6 @@
+interface:
+  display_name: "ACTING 角色表演系统"
+  short_description: "为AI视频角色设计目标、节奏、眼神、声音与真实表演层"
+  default_prompt: "使用 $acting-ai-performance 为这段视频设计角色表演和声音。"
+policy:
+  allow_implicit_invocation: true

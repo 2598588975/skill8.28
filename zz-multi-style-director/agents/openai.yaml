@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zz多风格导演"
+  short_description: "多类型视听风格、复杂调度、AI视频执行与失败修复"
+  default_prompt: "Use $zz-multi-style-director to turn this script into a multi-style director plan and executable AI-video production package."

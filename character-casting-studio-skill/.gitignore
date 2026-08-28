@@ -1,0 +1,21 @@
+# Local Codex and image-generation artifacts
+.codex/
+.agents/
+__pycache__/
+*.pyc
+
+# Secrets and local configuration
+*.env
+*.key
+*secret*
+*token*
+
+# Generated outputs and temporary exports
+outputs/
+generated/
+drafts/
+temp/
+*.log
+
+# Private reference images must remain local and untracked
+assets/reference-library/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zz AI 短剧"
+  short_description: "分阶段路由剧本、资产、表演与视频提示词，每步确认后推进"
+  default_prompt: "使用 $zz-ai-drama 按项目文件逐步推进；一次只使用一个工作 Skill，每一步等我确认。"
