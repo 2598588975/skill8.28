@@ -4,8 +4,8 @@
   "snapshot_date": "2026-08-28",
   "source_scope": "Personal directories under C:/Users/codex/.codex/skills; excludes .system and removed photo-revival",
   "skill_directory_count": 57,
-  "source_file_count": 1207,
-  "source_total_bytes": 256958659,
+  "source_file_count": 1214,
+  "source_total_bytes": 257579476,
   "skills": [
     "acting-ai-performance",
     "character-casting-studio-skill",
@@ -2467,9 +2467,49 @@
       "sha256": "4027a20dbe3111e080e0d1d94f3f32fbd590b947ac2674420435d1c03b4be3b9"
     },
     {
+      "path": "luanxia-daily-director/SKILL.md",
+      "bytes": 6911,
+      "sha256": "66abf04b8a5f86fb6fa7bb5f82dd76ef64d673399991ecc42422fabb4edabf98"
+    },
+    {
       "path": "luanxia-daily-director/agents/openai.yaml",
       "bytes": 282,
       "sha256": "e5ac6cdcda5775a77721424fc408e7a738c9f64dbd907ebaf9e486729f4dc866"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-asset-prompts.md",
+      "bytes": 27608,
+      "sha256": "df80c68fdda77b554e964592bb537fc06f02f4106a44364adb3f8cc34f5af389"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-assets.md",
+      "bytes": 111978,
+      "sha256": "651a7d3de37af8ce05b716a04dac25c6fc7a98f13a64b5880bc0828b790e26cd"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-p1-originals.md",
+      "bytes": 167727,
+      "sha256": "3f287e8a9c5b2dc3f6f6ec5eccefe66b4647baef1225343ccf690d5f2b558725"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-p2-originals.md",
+      "bytes": 152184,
+      "sha256": "f48c844e845fde1ecc738258acd6a1a89e610fe8fd403f320f9c65dd3ebbfae0"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-p3-originals.md",
+      "bytes": 139153,
+      "sha256": "5a4e4335b4b98d7f9bcb58958d4545f676bc022c499e561df200bb45838a6216"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-source-index.md",
+      "bytes": 5183,
+      "sha256": "4fee570a6448a1fdb1c02796222fad1d4269a5985af352701c7f2c0fa566056e"
+    },
+    {
+      "path": "luanxia-daily-director/references/029-writing-patterns.md",
+      "bytes": 14714,
+      "sha256": "a39634ec93485c24a543e864a4c22c3b8880969cb2b7ae1b3134f2038f1029bf"
     },
     {
       "path": "luanxia-daily-director/references/libtv-asset-format-analysis.md",
@@ -2483,8 +2523,8 @@
     },
     {
       "path": "luanxia-daily-director/references/quality-checklist.md",
-      "bytes": 2384,
-      "sha256": "6b6aed386603a727a6d33a01cd4f2ddd3adb7114d00a903c4587f84f63b05e9a"
+      "bytes": 2920,
+      "sha256": "90e6affb48b2b8a9950559bda4d38f563afc878adf63b59bbfd385a7f125989e"
     },
     {
       "path": "luanxia-daily-director/references/source-patterns.md",
@@ -2495,11 +2535,6 @@
       "path": "luanxia-daily-director/references/unified-format.md",
       "bytes": 5238,
       "sha256": "7dee6022cb622d34b4142c0db11f988e294e03f857f6616277ae962d19360388"
-    },
-    {
-      "path": "luanxia-daily-director/SKILL.md",
-      "bytes": 5177,
-      "sha256": "b4106072718dc435c48c664514ed3736ffe93c88d897275e572abf1411dd053a"
     },
     {
       "path": "micro-expression-control/agents/openai.yaml",
